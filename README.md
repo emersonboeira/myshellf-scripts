@@ -1,4 +1,4 @@
-# myshellfScripts
+# myshellf-scripts
 My shell scipts for personal use and practice of Linux commands
 
 Very good reference about Linux file permission on guru99: https://www.guru99.com/file-permissions.html
